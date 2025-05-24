@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 
 // Replace this with your Render backend URL after deployment
-const API_URL = 'https://your-backend-url.onrender.com'
+const API_URL = 'https://gujarati-restaurant-backend.onrender.com'
 
 function App() {
   const [categories, setCategories] = useState([])
